@@ -11,12 +11,15 @@ In production, used by the tournament organisation and its coaches during the 20
 <!-- VIDEO_EMBED: drag a .mp4 (< 10 MB) into this README on github.com, then paste the generated user-attachments link below -->
 _Screen recording coming soon._
 
-**Try it yourself**: a public demo instance with fictional data is planned (`DEMO_MODE`, automatic reset every 24 h).
+**Try it yourself**: a public demo instance runs with fictional data only. Every change you make is wiped and re-seeded automatically every 24 hours, so feel free to click everything.
 
 | | |
 |---|---|
-| Demo URL | _coming soon_ |
-| Test account | _coming soon_ |
+| Demo URL | http://5.75.152.72:8080 |
+| Admin account | `demo@demo.com` / `demo1234` |
+| Coach account | `demo+coach1@example.com` / `demo1234` |
+
+Suggested tour: validate the pending registrations, score a few kids in *Sélection*, check the ranking tab, then open *Tournoi* and hit *Générer* to build the day lineups.
 
 ---
 
