@@ -8,8 +8,9 @@ In production, used by the tournament organisation and its coaches during the 20
 
 ## 🎥 Demo
 
-<!-- VIDEO_EMBED: drag a .mp4 (< 10 MB) into this README on github.com, then paste the generated user-attachments link below -->
-_Screen recording coming soon._
+![Ballkids Manager demo: registrations, selection scoring, ranking, team generation, court rotation plan, coach availability](media/ballkids-demo.gif)
+
+_Preview at 2× speed. Full-resolution walkthrough (2 min, 1080p): [media/ballkids-demo.mp4](media/ballkids-demo.mp4)._
 
 **Try it yourself**: a public demo instance runs with fictional data only. Every change you make is wiped and re-seeded automatically every 24 hours, so feel free to click everything.
 
