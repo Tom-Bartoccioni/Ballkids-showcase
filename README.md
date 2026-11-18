@@ -10,7 +10,7 @@ In production, used by the tournament organisation and its coaches during the 20
 
 ![Ballkids Manager demo: registrations, selection scoring, ranking, team generation, court rotation plan, coach availability](media/ballkids-demo.gif)
 
-_Preview at 2× speed. Full-resolution walkthrough (2 min, 1080p): [media/ballkids-demo.mp4](media/ballkids-demo.mp4)._
+_Preview at 2× speed. Full-resolution walkthrough (2 min, 1080p): [watch in the browser](https://cdn.jsdelivr.net/gh/Tom-Bartoccioni/Ballkids-showcase@05c431e/media/ballkids-demo.mp4)._
 
 **Try it yourself**: a public demo instance runs with fictional data only. Every change you make is wiped and re-seeded automatically every 24 hours, so feel free to click everything.
 
